@@ -1,0 +1,104 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: template-documentation.indd
+
+PACKAGE DATE: 4/15/15 4:50 PM
+Creation Date: 4/15/15
+Modification Date: 4/15/15
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+InBooklet SE.4x.pln.framework
+
+
+Non Opaque Objects :On Page2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45
+
+FONTS
+8 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Museo-500; Type: OpenType Type 1, Status: OK
+- Name: SanukTF-Bold; Type: OpenType Type 1, Status: OK
+- Name: SanukTF-Light; Type: OpenType Type 1, Status: OK
+- Name: SanukTF-Medium; Type: OpenType Type 1, Status: OK
+- Name: SanukTF-Regular; Type: OpenType Type 1, Status: OK
+- Name: SanukTF-Thin; Type: OpenType Type 1, Status: OK
+- Name: TradeGothic-BoldCondTwenty; Type: Type 1, Status: OK
+- Name: TradeGothic-BoldTwo; Type: Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 72 Links Found; 0 Modified, 1 Missing 0 Inaccessible
+Images: 0 Embedded, 72 use RGB color space
+
+- Name: line-breaks.png; Type: Portable Network Graphics (PNG) RGB; Status: Missing
+
+PRINT SETTINGS
+PPD: HP LaserJet 5000 Series, (HP LaserJet 5000 Series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: Yes
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite, Colors in Black.
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. template-documentation.indd; type: Adobe InDesign publication; size: 11932K
+2. Museo500-Regular.otf; type: Font file; size: 125K
+3. SanukTF-Bold.otf; type: Font file; size: 29K
+4. SanukTF-Light.otf; type: Font file; size: 29K
+5. SanukTF-Medium.otf; type: Font file; size: 29K
+6. SanukTF-Regular.otf; type: Font file; size: 29K
+7. SanukTF-Thin.otf; type: Font file; size: 29K
+8. TradeGotBolConTwe; type: Font file; size: 29K
+9. Trade Gothic Condensed; type: Font file; size: 94K
+10. TradeGotBolTwo; type: Font file; size: 28K
+11. Trade Gothic; type: Font file; size: 203K
